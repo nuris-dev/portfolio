@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family:monospace;
+    
+
+}
+.hero {
+    display: flex;
+    border-radius: 50%;
+    margin-bottom: 35px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 10px;
+
+}
+.avatar{
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    margin-bottom: 35px;
+
+}
+h1 {
+    color: #bd83ff;
+    font-size: 96px;
+    line-height:1.5;
+}
+.img2 {
+    padding-bottom: 80px;
+    height: 400px;
+    width: 883px;
+    margin-top: 10px;
+}
+.skills {
+    text-align: center;
+}
+.skillscollect {
+    font-size:48px;
+    margin-top:80px;
+    margin-bottom: 80px;
+    letter-spacing: 1px;
+
+}
+.skilltags {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.secontainer {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 30px;
+}
+.ss{
+    padding: 10px 22px;
+    font-size: 1rem;
+    font-weight: 600;
+    color:#ccff00;
+    border: 1.5px solid #b864fd;
+    border-radius: 50px;
+    background-color: rgba(20,15, 30, 0.6);
+}
+
+.txt {
+    font-size: 48px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 87px;
+}
+.aaa {
+    margin-top: 14px;
+    width: 429px;
+    height: 413px;
+    align-items: center;
+
+}
+.vstp {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.imgs{
+    justify-content: center;
+    text-align: center;
+}
+.ccc {
+    margin-top: 146px;
+    margin-bottom: 146px;
+}
+.ddd {
+    margin-bottom: 110px;
+    width: 335px;
+    height: 118px;
+}
+.photoone{
+    margin-top:112px;
+    margin-left: 80px;
+    margin-bottom: 112px;
+}
+.about {
+    display: flex;
+}
+.aboutsch {
+    flex-direction: column;
+}
+.school-section {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 60px;
+    padding: 80px 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.left img{
+    width: 380px;
+    height: auto;
+    border-radius: 12px;
+    
+}
+.right {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    text-align: left;
+
+
+}
+.right h2{
+    font-size:78px;
+    font-weight: 700;
+    color: skyblue;
+    margin-bottom: 5px;
+}
+.right .year{
+    font-size: 32px;
+    color: skyblue;
+    font-weight: 600;
+    margin-bottom: 30px;
+
+}
+.right.texxt {
+    font-size: 32px;
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+.cards{
+    display: flex;
+    gap: 16px;
+    margin-top: 15px;
+
+}
+.card{
+    background-color: rgb(88, 88, 88);
+    border-radius: 16px;
+    padding: 16px 20px;
+    font-size: 18px;
+    color: white;
+    line-height: 1.4;
+    
+}
+.texxtone {
+    margin-bottom: 30px;
+    font-size: 25px;
+
+}
+.texxttwo {
+    font-size: 25px;
+}
+.photoone{
+    width: 620px;
+    height: 560px;
+}
+.green {
+    margin-left: 155px;
+    margin-top: 207px;
+    margin-bottom: 162px;
+}
